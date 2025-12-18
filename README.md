@@ -222,6 +222,10 @@
 ```
 wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh [option] [lisence/url/token]
 ```
+```
+wget -N https://raw.githubusercontent.com/zhoujun0601/warp-sh/refs/heads/main/menu.sh && bash menu.sh [option] [lisence/url/token]
+```
+
 再次运行
 ```
 warp [option] [lisence]
